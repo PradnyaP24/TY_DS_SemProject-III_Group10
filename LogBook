@@ -1,1 +1,41 @@
-
+Project Title : Automation Object Detection and Space Synthesis
+Team Members:Pradnya Patil
+             Prerna Patil
+             Divya Khairnar
+             Ashwini Deore
+📅 Week 1: 07/08/2025 – 11/08/2025
+Work Done:
+Understood the fundamentals of object detection and its applications in automation and spatial analysis.
+Researched popular object detection algorithms (YOLO, Faster R-CNN, SSD) and their comparative strengths.
+Defined the project objectives and scope with a focus on integrating object detection into space synthesis for real-world use.
+Explored dataset sources (COCO, Pascal VOC, custom datasets) for object detection tasks.
+Challenges Faced:
+Selecting the most suitable dataset for automation-related objects.
+Understanding the integration between object detection outputs and spatial synthesis.
+Next Steps:
+Perform exploratory data analysis (EDA) on chosen datasets.
+Begin preprocessing images and annotations.
+📅 Week 2: 10/08/2025 – 22/09/2025
+Work Done:
+Conducted EDA on selected datasets to understand object distribution.
+Preprocessed data: annotation verification, resizing images, normalization.
+Implemented baseline object detection models (YOLOv5 and Faster R-CNN) for preliminary testing.
+Generated visualizations of detected objects for early validation.
+Challenges Faced:
+Managing class imbalance for underrepresented objects.
+Fine-tuning detection thresholds to minimize false positives/negatives.
+Next Steps:
+Optimize models with hyperparameter tuning.
+Start designing the pipeline for space synthesis integration.
+📅 Week 3: 24/0/92025 – 05/09/2025
+Work Done:
+Fine-tuned the chosen object detection model to improve accuracy and robustness.
+Validated results using test datasets and analyzed precision, recall, and mAP (mean Average Precision).
+Designed initial framework for space synthesis, mapping detected objects into spatial layouts.
+Developed visual reports showing object counts, categories, and spatial positioning.
+Challenges Faced:
+Deciding the best representation method for spatial synthesis.
+Handling overlapping objects and optimizing layout placement logic.
+Next Steps:
+Work on documentation and prepare mid-project report.
+Expand space synthesis model to handle larger and more complex object sets.
